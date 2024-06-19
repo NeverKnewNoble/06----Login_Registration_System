@@ -1,4 +1,4 @@
-# 06 -- Login_Registration_System
+# Login_Registration_System
 A login and registration system involves several key components and features to ensure functionality, security, and user-friendliness based on the backend.
 
 # Essential Features
